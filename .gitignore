@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.local
+
+# API keys (if you add them back)
+config.js
+secrets.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Chrome extension packaging
+*.crx
+*.pem
