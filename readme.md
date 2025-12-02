@@ -1,4 +1,4 @@
-# ChatGPT Prompt Context Saver
+# GPT Workspace Manager
 
 A Chrome extension that enhances ChatGPT with a prompt index sidebar, context transfer between chats, and AI-powered conversation summaries.
 
