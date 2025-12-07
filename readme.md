@@ -9,9 +9,12 @@ A Chrome extension that enhances ChatGPT with a prompt index sidebar, context tr
 - **Star & Rename Prompts** - Mark and customize important prompts
 - **Dark/Light Mode** - Auto theme switching
 - **Persistent Storage** - Saves all your customizations
+### Screenshots
+**Without Workspace Tool:**
+![Without Tool](https://github.com/ritikbundela/GPT-Workspace-Manager/raw/main/icons/without%20workspace%20tool.png)
 
-## without : https://github.com/ritikbundela/GPT-Workspace-Manager/blob/main/icons/without%20workspace%20tool.png
-## with workspace manager : https://github.com/ritikbundela/GPT-Workspace-Manager/blob/main/icons/with%20workspace%20tool.png
+**With Workspace Manager:**
+![With Tool](https://github.com/ritikbundela/GPT-Workspace-Manager/raw/main/icons/with%20workspace%20tool.png)
 
 ## Installation
 
